@@ -1,17 +1,21 @@
+**Web-Scraper**
+
+https://github.com/user-attachments/assets/a7c10021-8696-4fc5-b44d-dbb680f30a72
+
 Para este proyecto utilizamos las librerías SeleniumBase, Pandas y Pytest, 
 SeleniumBase - SeleniumBase es un framework de automatización de navegadores con el que 
 podemos trabajar con páginas web, añadiendo, extrayendo, navegando, entre muchas otras cosas más, es 
-ideal para este proyecto de web scraping.
+ideal para este proyecto de web scraping.  
 
 El objeto Driver (o driver) es el que controla el navegador.
 Cada uno de esos métodos sirve para interactuar con la página web o con el navegador
-Algunos elementos usados de esta librería son:
+Algunos elementos usados de esta librería son:  
 
-Driver.click(selector) 			    # Hace clic sobre un elemento de la página.
-Driver.find_elements(selector)	# Devuelve una lista de elementos que coinciden con el selector
-Driver.quit()    	              # Cierra completamente el navegador y termina la sesión
-Driver.get(url)				          # Carga una URL en el navegador.
-Driver.open(url)  	            # Abre una URL, pero es un método propio de SeleniumBase		
+Driver.click(selector)----------# Hace clic sobre un elemento de la página.  
+Driver.find_elements(selector)--# Devuelve una lista de elementos que coinciden con el selector  
+Driver.quit()-------------------# Cierra completamente el navegador y termina la sesión  
+Driver.get(url)-----------------# Carga una URL en el navegador.  
+Driver.open(url)----------------# Abre una URL, pero es un método propio de SeleniumBase  
 
 Pandas - Pandas es una herramienta de análisis y manipulación de datos de código abierto rápida, potente, 
 flexible y fácil de usar, 
