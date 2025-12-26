@@ -1,4 +1,4 @@
-## :8ball:Web Scraper – Lotería de Honduras
+## :8ball:Web Scraper – Lotería de Honduras &nbsp; &nbsp; &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 Este proyecto es un web scraper en Python que extrae los números ganadores de la Lotería de Honduras (La Diaria 9 PM) día por día, mes  por mes y año por año, y los guarda en un archivo Excel.  
 
